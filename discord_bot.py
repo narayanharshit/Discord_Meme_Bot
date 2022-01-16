@@ -4,11 +4,6 @@ from discord.ext.commands import Bot
 from requests import get
 from dotenv import dotenv_values
 
-'''
-    OAuth2 Url to add it to your guild/server
-    https://discord.com/oauth2/authorize?client_id=931963591253430312&permissions=277025445888&scope=bot
-'''
-
 meme_bot = Bot(command_prefix = '$')
 
 config = dotenv_values(".env")
@@ -33,7 +28,7 @@ async def meme(ctx):
 
 @meme_bot.command()
 async def info(ctx):
-    await ctx.send("This a bot that embeds a random hysterical meme from Reddit into your text channel as an embedded message, using an API call.")
+    await ctx.send("This is a bot that embeds a random hysterical meme from Reddit into your text channel as an embedded message, using an API call.")
 
 @meme_bot.command()
 async def who_made_you(ctx):
