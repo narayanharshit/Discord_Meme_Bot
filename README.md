@@ -27,3 +27,6 @@ Input : $who_made_you
 
 ### 5. To entertain yourself and other's in your guild
 Input : $meme
+
+## Demonstration
+![demonstration_image](https://github.com/narayanharshit/Discord_Meme_Bot/blob/main/Screen%20Shot%202022-01-16%20at%207.07.25%20AM.png?raw=true)
