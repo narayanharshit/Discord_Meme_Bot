@@ -12,7 +12,7 @@ Bot that embeds a random hysterical meme from Reddit into your text channel as a
 
 ### The command prefix to use : '$'
 
-### 1. To check the working of the bot, and watching it respond
+### 1. To verify the functioning and uptime of the bot, and watching it respond
 Input : $ping
 Output : pong!
 
@@ -22,7 +22,7 @@ Input : $hi
 ### 3. To get to know what the bot does
 Input : $info
 
-### 4. To get to more about the author of the bot
+### 4. To get to know more about the author of the bot
 Input : $who_made_you
 
 ### 5. To entertain yourself and other's in your guild
