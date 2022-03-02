@@ -1,4 +1,4 @@
-# Discord_Meme_Bot 🤣
+# Discord_Meme_Bot
 Bot that embeds a random hysterical meme from Reddit into your text channel as an embedded message, using an API call. 
 
 ![bot_image](https://cdn.discordapp.com/app-icons/931963591253430312/e73e4fd97582bfd85e0bd7d2de7769e5.png?size=512)
